@@ -8,7 +8,7 @@ A fitness app that allows the user to view, create, and track daily workouts. Th
 NPM install, MongoDB, Mongoose, Express.js, Node.js, Robo3T, JavaScript, HTML, CSS, mongodbAtlas, Heroku and Compression
 
 ## Github
-
+https://github.com/melakusheri/Workout-Tracker
 
 ## Deployed App
 
