@@ -12,4 +12,4 @@ NPM install, MongoDB, Mongoose, Express.js, Node.js, Robo3T, JavaScript, HTML, C
 
 ## Deployed App
 
-## screen shot
+## Screenshot 
